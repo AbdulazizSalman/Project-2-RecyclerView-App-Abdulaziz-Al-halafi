@@ -1,3 +1,67 @@
 <resources>
-    <string name="app_name">Project-2-RecyclerView-App</string>
+    <string name="app_name">رفوفي</string>
+
+    <string name="name1">فن اللامبالاة</string>
+    <string name="page1">325 صفحة</string>
+    <string name="hour1">من 8-12 ساعة</string>
+
+    <string name="name2">التغيير للأفضل</string>
+    <string name="page2">195 صفحة</string>
+    <string name="hour2">من 2-5 ساعة</string>
+
+    <string name="name3">الكلام ليس رخيصا</string>
+    <string name="page3">260 صفحة</string>
+    <string name="hour3">من 5-8 ساعة</string>
+
+    <string name="name4">وهم لا يعلمون</string>
+    <string name="page4">147 صفحة</string>
+    <string name="hour4">من 2-5 ساعة</string>
+
+    <string name="name5">كتاب الأدغال (ماوكلى)</string>
+    <string name="page5">219 صفحة</string>
+    <string name="hour5">من 5-8 ساعة</string>
+
+    <string name="name6">عشقني عفريت من الجن</string>
+    <string name="page6">278 صفحة</string>
+    <string name="hour6">من 5-8 ساعة</string>
+
+    <string name="name7">القصر الأسود</string>
+    <string name="page7">442 صفحة</string>
+    <string name="hour7">من 8-12 ساعة</string>
+
+    <string name="name8">قوة الاثنين</string>
+    <string name="page8">565 صفحة</string>
+    <string name="hour8">من 12-18 ساعة</string>
+
+    <string name="name9">معزوفة العطش</string>
+    <string name="page9">552 صفحة</string>
+    <string name="hour9">من 12-18 ساعة</string>
+
+    <string name="name10">الكوابيس</string>
+    <string name="page10">398 صفحة</string>
+    <string name="hour10">من 8-12 ساعة</string>
+
+    <string name="name11">بيت خالتي</string>
+    <string name="page11">465 صفحة</string>
+    <string name="hour11">من 8-12 ساعة</string>
+
+    <string name="name12">محارب الزمن</string>
+    <string name="page12">411 صفحة</string>
+    <string name="hour12">من 8-12 ساعة</string>
+
+    <string name="name13">في بحر مظلم وبارد</string>
+    <string name="page13">508 صفحة</string>
+    <string name="hour13">من 12-18 ساعة</string>
+
+    <string name="name14">آلات جهنمية</string>
+    <string name="page14">520 صفحة</string>
+    <string name="hour14">من 12-18 ساعة</string>
+
+    <string name="name15">قيد الأخفاء</string>
+    <string name="page15">228 صفحة</string>
+    <string name="hour15">من 5-8 ساعة</string>
+
+
+
+
 </resources>

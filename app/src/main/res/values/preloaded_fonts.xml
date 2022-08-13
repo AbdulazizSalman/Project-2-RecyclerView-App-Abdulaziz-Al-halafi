@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/architects_daughter</item>
+        <item>@font/beth_ellen</item>
+        <item>@font/bigelow_rules</item>
+        <item>@font/cherry_cream_soda</item>
+        <item>@font/eater</item>
+        <item>@font/germania_one</item>
+        <item>@font/loved_by_the_king</item>
+        <item>@font/pattaya</item>
+        <item>@font/purple_purse</item>
+        <item>@font/yesteryear</item>
+    </array>
+</resources>
